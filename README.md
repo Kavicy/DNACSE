@@ -1,4 +1,4 @@
-# DNACSE_JCIM
+# DNACSE
 
 DNACSE: Enhancing Genomic LLMs with Contrastive Learning for DNA Barcode Identification.
 
