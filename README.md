@@ -14,7 +14,11 @@ pip install -r requirements.txt
 We use Flash Attention 2 to accelerate the training and inference processes. Please execute the following command to install Flash Attention 2. For more detailed information, please refer to https://github.com/Dao-AILab/flash-attention
 
 To install 
+```
 pip install flash-attn --no-build-isolation
+```
+
+
 
 
 
